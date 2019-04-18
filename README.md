@@ -16,6 +16,7 @@ Reports, diagrams, and other materials for the BCON Arcade project.
 
 - Final Report
 - Proposal
+- Scenarios
 - SDS
 - SRS
 
@@ -23,3 +24,4 @@ Reports, diagrams, and other materials for the BCON Arcade project.
 
 - Final Presentation
 - Gantt Chart
+
